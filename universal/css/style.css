@@ -1,0 +1,21 @@
+body {
+  border: 1px solid black;
+}
+nav {
+  border: 2px solid black;
+}
+h1 {
+  border: 1px solid black;
+}
+section {
+  border: 1px solid black;
+}
+article {
+  border: 1px dotted red;
+}
+aside {
+  border: 1px solid black;
+}
+footer {
+  border: 1px solid black;
+}
